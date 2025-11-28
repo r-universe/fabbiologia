@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "glscalibrator"]
+	path = glscalibrator
+	url = https://github.com/fabbiologia/glscalibrator
